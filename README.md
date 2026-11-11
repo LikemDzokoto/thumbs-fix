@@ -8,7 +8,11 @@ A [Hermes Agent](https://github.com/NousResearch/hermes-agent) plugin. MIT licen
 
 ## Demo
 
-[![Watch the thumbs-fix demo](docs/media/demo-poster.jpg)](docs/media/thumbs-fix-demo.mp4)
+
+
+https://github.com/user-attachments/assets/dfbdeed0-c78d-4326-91d2-868e180b41f8
+
+
 
 A real run on Telegram with DeepSeek as the model: a wrong date format, a thumbs-down, one question, the diff, a thumbs-up, and the fixed reply. Click the image to play the video ([`docs/media/thumbs-fix-demo.mp4`](docs/media/thumbs-fix-demo.mp4)).
 
