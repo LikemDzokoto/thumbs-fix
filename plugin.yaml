@@ -1,0 +1,11 @@
+manifest_version: 2
+name: thumbs-fix
+version: 0.1.0
+description: "React with a thumbs-down to a bad Hermes reply on Telegram and it names the skill behind it, asks one question, shows a proposed edit as a diff, and changes the skill only after you approve."
+author: Likem Dzokoto
+requires_hermes: ">=0.21.5"
+provides_hooks:
+  - pre_gateway_dispatch
+  - pre_llm_call
+  - post_tool_call
+  - gateway_platform_event
